@@ -1,3 +1,16 @@
+[CA](#ca)<br>
+[p2p CDN](#p2p-cdn)<br>
+[zk-SNARK](#zk-snark)<br>
+[Data storage validation](#data-storage-validation)<br>
+[Chunking](chunking)<br>
+[NAT bypass](nat-bypass)<br>
+[VPN/Traffic encryption support](#vpntraffic-encryption-support)<br>
+[Access permissions](#access-permissions)<br>
+[Hosting mode (CDN)](#hosting-mode-cdn)<br>
+[Provider reputation system](#provider-reputation-system)<br>
+[DDoS attack protection](#ddos-attack-protection)<br>
+
+
 CA
 ==
 
