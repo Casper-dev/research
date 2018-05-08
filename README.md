@@ -225,8 +225,8 @@ Hosting mode (CDN)
 
    -  The ability to set the number of copies manually.
 
-#. .. rubric:: Provider reputation system
-      :name: provider-reputation-system
+Provider reputation system
+==
 
    -  Objective
 
@@ -267,8 +267,8 @@ Hosting mode (CDN)
              response/response timeout, utilize a smart contract as a
              source of additional information)
 
-   .. rubric:: DDoS attack protection
-      :name: ddos-attack-protection
+DDoS attack protection
+==
 
 -  Objective
 
